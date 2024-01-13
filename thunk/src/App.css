@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(107, 199, 169);
+
+}
+.main {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .btn {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .box {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .box li {
+    list-style: none;
+    margin: 5px 0;
+    font-weight: bold;
+  }
+
+  /* .box:nth-child(even){
+    background-color: #fff;
+  }
+   */
+.bttn{
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+ 
+  
